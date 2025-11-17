@@ -14,3 +14,6 @@ Yêu Cầu Hệ Thống
 - Mininet
 - POX Controller
 - Git
+
+Mô hình mạng
+<img width="1008" height="660" alt="topo" src="https://github.com/user-attachments/assets/d7ec2e46-ad5d-46af-9c79-c08f351fc9f7" />
