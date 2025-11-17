@@ -11,22 +11,22 @@ SERVER_END = 12
 
 def plot_server_usage():
     if not os.path.exists(SERVER_USAGE_FILE):
-        print(f"Lỗi: Không tìm thấy file dữ liệu: {SERVER_USAGE_FILE}")
-        print("Đảm bảo bạn đã chạy POX và có traffic trong mạng.")
+        print(f"Error: Data file not found: {SERVER_USAGE_FILE}")
+        print("Please ensure that the load balancer is running and generating data.")
         return
 
     try:
         with open(SERVER_USAGE_FILE, 'r') as f:
             log_data = json.load(f)
     except json.JSONDecodeError:
-        print("Lỗi: File dữ liệu JSON không hợp lệ. Đảm bảo file không trống.")
+        print("Error: Invalid JSON data file. Ensure the file is not empty.")
         return
     except Exception as e:
-        print(f"Lỗi khi đọc file: {e}")
+        print(f"Error reading file: {e}")
         return
 
     if not log_data:
-        print("File dữ liệu trống. Không có dữ liệu để vẽ biểu đồ.")
+        print("Data file is empty. No data to plot.")
         return
 
     timestamps = [item['timestamp'] for item in log_data]
