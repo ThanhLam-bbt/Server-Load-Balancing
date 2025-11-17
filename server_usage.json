@@ -1,0 +1,1014 @@
+[
+  {
+    "timestamp": 1763359632.238492, 
+    "server_usage": {
+      "server8": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server12": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359635.239587, 
+    "server_usage": {
+      "server12": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server8": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359638.242196, 
+    "server_usage": {
+      "server8": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server12": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359641.243744, 
+    "server_usage": {
+      "server12": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server8": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359644.245229, 
+    "server_usage": {
+      "server8": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server12": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359647.245975, 
+    "server_usage": {
+      "server12": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server8": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359650.246645, 
+    "server_usage": {
+      "server8": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server12": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359653.247709, 
+    "server_usage": {
+      "server12": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server8": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359656.24915, 
+    "server_usage": {
+      "server8": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server12": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359659.250397, 
+    "server_usage": {
+      "server12": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server8": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359662.251715, 
+    "server_usage": {
+      "server8": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server12": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359665.253986, 
+    "server_usage": {
+      "server12": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server8": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359668.256443, 
+    "server_usage": {
+      "server8": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server12": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359671.258882, 
+    "server_usage": {
+      "server12": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server8": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359674.260313, 
+    "server_usage": {
+      "server8": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server12": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359677.262528, 
+    "server_usage": {
+      "server12": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server8": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359680.26533, 
+    "server_usage": {
+      "server8": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server12": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359683.267197, 
+    "server_usage": {
+      "server12": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server8": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359686.270387, 
+    "server_usage": {
+      "server8": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server12": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359689.277233, 
+    "server_usage": {
+      "server12": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server8": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359692.279694, 
+    "server_usage": {
+      "server8": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server12": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359695.282485, 
+    "server_usage": {
+      "server12": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server8": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359698.28619, 
+    "server_usage": {
+      "server8": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server12": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359701.287734, 
+    "server_usage": {
+      "server12": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server8": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359704.29115, 
+    "server_usage": {
+      "server8": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server12": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359707.292618, 
+    "server_usage": {
+      "server12": 0, 
+      "server9": 0, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server8": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359710.295126, 
+    "server_usage": {
+      "server8": 1, 
+      "server9": 1, 
+      "server10": 0, 
+      "server11": 0, 
+      "server7": 0, 
+      "server12": 0
+    }
+  }, 
+  {
+    "timestamp": 1763359713.297489, 
+    "server_usage": {
+      "server12": 1, 
+      "server9": 1, 
+      "server10": 1, 
+      "server11": 1, 
+      "server7": 1, 
+      "server8": 1
+    }
+  }, 
+  {
+    "timestamp": 1763359716.30076, 
+    "server_usage": {
+      "server8": 1, 
+      "server9": 1, 
+      "server10": 1, 
+      "server11": 1, 
+      "server7": 1, 
+      "server12": 1
+    }
+  }, 
+  {
+    "timestamp": 1763359719.30395, 
+    "server_usage": {
+      "server12": 1, 
+      "server9": 1, 
+      "server10": 1, 
+      "server11": 1, 
+      "server7": 1, 
+      "server8": 1
+    }
+  }, 
+  {
+    "timestamp": 1763359722.308095, 
+    "server_usage": {
+      "server8": 2, 
+      "server9": 2, 
+      "server10": 2, 
+      "server11": 2, 
+      "server7": 1, 
+      "server12": 1
+    }
+  }, 
+  {
+    "timestamp": 1763359725.311521, 
+    "server_usage": {
+      "server12": 2, 
+      "server9": 2, 
+      "server10": 2, 
+      "server11": 2, 
+      "server7": 2, 
+      "server8": 2
+    }
+  }, 
+  {
+    "timestamp": 1763359728.313983, 
+    "server_usage": {
+      "server8": 2, 
+      "server9": 2, 
+      "server10": 2, 
+      "server11": 2, 
+      "server7": 2, 
+      "server12": 2
+    }
+  }, 
+  {
+    "timestamp": 1763359731.315243, 
+    "server_usage": {
+      "server12": 2, 
+      "server9": 3, 
+      "server10": 3, 
+      "server11": 2, 
+      "server7": 2, 
+      "server8": 3
+    }
+  }, 
+  {
+    "timestamp": 1763359734.317019, 
+    "server_usage": {
+      "server8": 3, 
+      "server9": 3, 
+      "server10": 3, 
+      "server11": 3, 
+      "server7": 3, 
+      "server12": 3
+    }
+  }, 
+  {
+    "timestamp": 1763359737.320075, 
+    "server_usage": {
+      "server12": 3, 
+      "server9": 3, 
+      "server10": 3, 
+      "server11": 3, 
+      "server7": 3, 
+      "server8": 3
+    }
+  }, 
+  {
+    "timestamp": 1763359740.322886, 
+    "server_usage": {
+      "server8": 3, 
+      "server9": 3, 
+      "server10": 3, 
+      "server11": 3, 
+      "server7": 3, 
+      "server12": 3
+    }
+  }, 
+  {
+    "timestamp": 1763359743.326549, 
+    "server_usage": {
+      "server12": 3, 
+      "server9": 4, 
+      "server10": 4, 
+      "server11": 3, 
+      "server7": 3, 
+      "server8": 4
+    }
+  }, 
+  {
+    "timestamp": 1763359746.331074, 
+    "server_usage": {
+      "server8": 4, 
+      "server9": 4, 
+      "server10": 4, 
+      "server11": 4, 
+      "server7": 4, 
+      "server12": 4
+    }
+  }, 
+  {
+    "timestamp": 1763359749.332438, 
+    "server_usage": {
+      "server12": 4, 
+      "server9": 4, 
+      "server10": 4, 
+      "server11": 4, 
+      "server7": 4, 
+      "server8": 4
+    }
+  }, 
+  {
+    "timestamp": 1763359752.335266, 
+    "server_usage": {
+      "server8": 5, 
+      "server9": 4, 
+      "server10": 4, 
+      "server11": 4, 
+      "server7": 4, 
+      "server12": 4
+    }
+  }, 
+  {
+    "timestamp": 1763359755.336856, 
+    "server_usage": {
+      "server12": 5, 
+      "server9": 5, 
+      "server10": 5, 
+      "server11": 5, 
+      "server7": 4, 
+      "server8": 5
+    }
+  }, 
+  {
+    "timestamp": 1763359758.340508, 
+    "server_usage": {
+      "server8": 5, 
+      "server9": 5, 
+      "server10": 5, 
+      "server11": 5, 
+      "server7": 5, 
+      "server12": 5
+    }
+  }, 
+  {
+    "timestamp": 1763359761.343415, 
+    "server_usage": {
+      "server12": 5, 
+      "server9": 5, 
+      "server10": 5, 
+      "server11": 5, 
+      "server7": 5, 
+      "server8": 5
+    }
+  }, 
+  {
+    "timestamp": 1763359764.345009, 
+    "server_usage": {
+      "server8": 6, 
+      "server9": 6, 
+      "server10": 5, 
+      "server11": 5, 
+      "server7": 5, 
+      "server12": 5
+    }
+  }, 
+  {
+    "timestamp": 1763359767.348185, 
+    "server_usage": {
+      "server12": 6, 
+      "server9": 6, 
+      "server10": 6, 
+      "server11": 6, 
+      "server7": 5, 
+      "server8": 6
+    }
+  }, 
+  {
+    "timestamp": 1763359770.352087, 
+    "server_usage": {
+      "server8": 6, 
+      "server9": 6, 
+      "server10": 6, 
+      "server11": 6, 
+      "server7": 6, 
+      "server12": 6
+    }
+  }, 
+  {
+    "timestamp": 1763359773.354255, 
+    "server_usage": {
+      "server12": 6, 
+      "server9": 6, 
+      "server10": 6, 
+      "server11": 6, 
+      "server7": 6, 
+      "server8": 6
+    }
+  }, 
+  {
+    "timestamp": 1763359776.358164, 
+    "server_usage": {
+      "server8": 7, 
+      "server9": 7, 
+      "server10": 7, 
+      "server11": 7, 
+      "server7": 6, 
+      "server12": 6
+    }
+  }, 
+  {
+    "timestamp": 1763359779.36032, 
+    "server_usage": {
+      "server12": 7, 
+      "server9": 7, 
+      "server10": 7, 
+      "server11": 7, 
+      "server7": 7, 
+      "server8": 7
+    }
+  }, 
+  {
+    "timestamp": 1763359782.362315, 
+    "server_usage": {
+      "server8": 7, 
+      "server9": 7, 
+      "server10": 7, 
+      "server11": 7, 
+      "server7": 7, 
+      "server12": 7
+    }
+  }, 
+  {
+    "timestamp": 1763359785.365325, 
+    "server_usage": {
+      "server12": 7, 
+      "server9": 7, 
+      "server10": 7, 
+      "server11": 7, 
+      "server7": 7, 
+      "server8": 7
+    }
+  }, 
+  {
+    "timestamp": 1763359788.367197, 
+    "server_usage": {
+      "server8": 8, 
+      "server9": 8, 
+      "server10": 8, 
+      "server11": 8, 
+      "server7": 7, 
+      "server12": 8
+    }
+  }, 
+  {
+    "timestamp": 1763359791.369006, 
+    "server_usage": {
+      "server12": 8, 
+      "server9": 8, 
+      "server10": 8, 
+      "server11": 8, 
+      "server7": 8, 
+      "server8": 8
+    }
+  }, 
+  {
+    "timestamp": 1763359794.370603, 
+    "server_usage": {
+      "server8": 8, 
+      "server9": 8, 
+      "server10": 8, 
+      "server11": 8, 
+      "server7": 8, 
+      "server12": 8
+    }
+  }, 
+  {
+    "timestamp": 1763359797.371966, 
+    "server_usage": {
+      "server12": 8, 
+      "server9": 9, 
+      "server10": 8, 
+      "server11": 8, 
+      "server7": 8, 
+      "server8": 9
+    }
+  }, 
+  {
+    "timestamp": 1763359800.373814, 
+    "server_usage": {
+      "server8": 9, 
+      "server9": 9, 
+      "server10": 9, 
+      "server11": 9, 
+      "server7": 8, 
+      "server12": 9
+    }
+  }, 
+  {
+    "timestamp": 1763359803.375291, 
+    "server_usage": {
+      "server12": 9, 
+      "server9": 9, 
+      "server10": 9, 
+      "server11": 9, 
+      "server7": 9, 
+      "server8": 9
+    }
+  }, 
+  {
+    "timestamp": 1763359806.37888, 
+    "server_usage": {
+      "server8": 9, 
+      "server9": 9, 
+      "server10": 9, 
+      "server11": 9, 
+      "server7": 9, 
+      "server12": 9
+    }
+  }, 
+  {
+    "timestamp": 1763359809.380429, 
+    "server_usage": {
+      "server12": 9, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 9, 
+      "server8": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359812.38505, 
+    "server_usage": {
+      "server8": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 9, 
+      "server12": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359815.387178, 
+    "server_usage": {
+      "server12": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server8": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359818.388873, 
+    "server_usage": {
+      "server8": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server12": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359821.390769, 
+    "server_usage": {
+      "server12": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server8": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359824.393052, 
+    "server_usage": {
+      "server8": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server12": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359827.394976, 
+    "server_usage": {
+      "server12": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server8": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359830.399771, 
+    "server_usage": {
+      "server8": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server12": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359833.405641, 
+    "server_usage": {
+      "server12": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server8": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359836.410073, 
+    "server_usage": {
+      "server8": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server12": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359839.415823, 
+    "server_usage": {
+      "server12": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server8": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359842.417942, 
+    "server_usage": {
+      "server8": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server12": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359845.421836, 
+    "server_usage": {
+      "server12": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server8": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359848.427634, 
+    "server_usage": {
+      "server8": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server12": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359851.430243, 
+    "server_usage": {
+      "server12": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server8": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359854.435498, 
+    "server_usage": {
+      "server8": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server12": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359857.437689, 
+    "server_usage": {
+      "server12": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server8": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359860.444965, 
+    "server_usage": {
+      "server8": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server12": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359863.446713, 
+    "server_usage": {
+      "server12": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server8": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359866.448891, 
+    "server_usage": {
+      "server8": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server12": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359869.450895, 
+    "server_usage": {
+      "server12": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server8": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359872.453281, 
+    "server_usage": {
+      "server8": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server12": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359875.459668, 
+    "server_usage": {
+      "server12": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server8": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359878.466542, 
+    "server_usage": {
+      "server8": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server12": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359881.472261, 
+    "server_usage": {
+      "server12": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server8": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359884.478106, 
+    "server_usage": {
+      "server8": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server12": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359887.482059, 
+    "server_usage": {
+      "server12": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server8": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359890.484127, 
+    "server_usage": {
+      "server8": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server12": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359893.490549, 
+    "server_usage": {
+      "server12": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server8": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359896.49717, 
+    "server_usage": {
+      "server8": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server12": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359899.50419, 
+    "server_usage": {
+      "server12": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server8": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359902.510152, 
+    "server_usage": {
+      "server8": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server12": 10
+    }
+  }, 
+  {
+    "timestamp": 1763359905.516861, 
+    "server_usage": {
+      "server12": 10, 
+      "server9": 10, 
+      "server10": 10, 
+      "server11": 10, 
+      "server7": 10, 
+      "server8": 10
+    }
+  }
+]
