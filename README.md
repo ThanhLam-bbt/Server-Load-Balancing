@@ -21,12 +21,14 @@ Mô hình mạng
 Thuật toán Round Robin
 - Thông kê lưu lượng:
 <img width="602" height="113" alt="Stats_RoundRobin" src="https://github.com/user-attachments/assets/5a834495-4679-45c8-bf26-19e74607f6fb" />
+
 - Biểu đồ phân phối tải:
 <img width="464" height="243" alt="RequestCount_RoundRobin" src="https://github.com/user-attachments/assets/60b434fb-7e5b-4a9f-9e4d-018311a0e28d" />
 
 Thuật toán Random
 - Thông kê lưu lượng:
 <img width="602" height="113" alt="Stats_Random" src="https://github.com/user-attachments/assets/2e7da3e6-1fb6-4a2c-889e-07fd2f6ee823" />
+
 - Biểu đồ phân phối tải:
 <img width="602" height="292" alt="RequetsCount_Radom" src="https://github.com/user-attachments/assets/32e1d7e2-367f-4947-ac06-d8dc538f7eac" />
 
