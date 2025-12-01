@@ -29,9 +29,11 @@ class Machine(object):
         self.ip_addr = ip
         self.port_num = port
         self.request_count = 0
+        self.is_alive = True
 
     def __str__(self):
-        return "MAC: " + str(self.mac_addr) + " | IP: " + str(self.ip_addr) + " | Port: " + str(self.port_num)
+        status = "ALIVE" if self.is_alive else "DEAD"
+        return "MAC: " + str(self.mac_addr) + " | IP: " + str(self.ip_addr) + " | Port: " + str(self.port_num) + " | Status: " + status
 
 class UsageLogger(threading.Thread):
     def __init__(self, stop_event):
@@ -141,6 +143,28 @@ class LoadBalancerProxy(object):
             self.current_server_index = random.randint(0, len(SERVER_MACHINES))
 
         conn.addListeners(self)
+    
+    def _handle_PortStatus(self, event):
+        port_no = event.port
+        
+        port_state = event.ofp.desc.state
+        
+        is_link_down = port_state & of.OFPPS_LINK_DOWN
+        link_status = not is_link_down
+        
+        if event.deleted:
+            link_status = False
+        
+        for server in SERVER_MACHINES.values():
+            if server.port_num == port_no:
+                server.is_alive = link_status
+                status_str = "ALIVE" if link_status else "DEAD"
+                
+                if not link_status:
+                    logger.warning("DETECTED: Server %s on Port %d is now %s" % (server.ip_addr, port_no, status_str))
+                else:
+                    logger.info("DETECTED: Server %s on Port %d is now %s" % (server.ip_addr, port_no, status_str))
+                break
 
     def _handle_PortStatsReceived(self, event):
         stats_data = str(flow_stats_to_list(event.stats))
@@ -196,11 +220,27 @@ class LoadBalancerProxy(object):
 
     def process_service(self, frame, event):
         def select_server():
+            alive_servers = [s for s in SERVER_MACHINES.values() if s.is_alive]
+            
+            if not alive_servers:
+                logger.error("CRITICAL: All servers are DEAD! Dropping packet.")
+                return None
+            
+            selected = None
             if SCHED_ALGORITHM == SCHED_RANDOM:
-                selected = random.choice(SERVER_MACHINES.values())
+                selected = random.choice(alive_servers)
+                
             elif SCHED_ALGORITHM == SCHED_ROUNDROBIN:
-                self.current_server_index = (self.current_server_index + 1) % len(SERVER_MACHINES)
-                selected = SERVER_MACHINES[self.current_server_index]
+                for _ in range(len(SERVER_MACHINES)):
+                    self.current_server_index = (self.current_server_index + 1) % len(SERVER_MACHINES)
+                    candidate = SERVER_MACHINES[self.current_server_index]
+                    if candidate.is_alive:
+                        selected = candidate
+                        break
+                
+                if selected is None:
+                     selected = alive_servers[0]
+                     
             return selected
 
         def is_server_reply(packet_frame):
@@ -225,6 +265,8 @@ class LoadBalancerProxy(object):
             return
 
         selected_server = select_server()
+        if selected_server is None:
+            return
         selected_server.request_count += 1
 
         server_to_client = of.ofp_flow_mod()
