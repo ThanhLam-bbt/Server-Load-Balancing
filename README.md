@@ -1,4 +1,4 @@
-<img width="934" height="277" alt="image" src="https://github.com/user-attachments/assets/086aee77-59f6-4a97-b3ef-ba3809fd4f55" /># Server-Load-Balancing
+# Server-Load-Balancing
 
 Đồ án môn học Công Nghệ mạng khả lập trình 2025.
 
