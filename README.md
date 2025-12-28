@@ -16,21 +16,25 @@ Yêu Cầu Hệ Thống
 - Git
 
 Mô hình mạng
-<img width="1008" height="660" alt="topo" src="https://github.com/user-attachments/assets/d7ec2e46-ad5d-46af-9c79-c08f351fc9f7" />
-
-Thuật toán Round Robin
-- Thông kê lưu lượng:
-<img width="602" height="113" alt="Stats_RoundRobin" src="https://github.com/user-attachments/assets/5a834495-4679-45c8-bf26-19e74607f6fb" />
-
-- Biểu đồ phân phối tải:
-<img width="464" height="243" alt="RequestCount_RoundRobin" src="https://github.com/user-attachments/assets/60b434fb-7e5b-4a9f-9e4d-018311a0e28d" />
+<img width="3054" height="3713" alt="sdn_topo" src="https://github.com/user-attachments/assets/3f6e9e6a-e00f-451e-bd1f-83a77946e053" />
 
 Thuật toán Random
-- Thông kê lưu lượng:
-<img width="602" height="113" alt="Stats_Random" src="https://github.com/user-attachments/assets/2e7da3e6-1fb6-4a2c-889e-07fd2f6ee823" />
+- Thống kê lưu lượng
+<img width="6600" height="1056" alt="Random_1" src="https://github.com/user-attachments/assets/70c86f8b-7971-4254-9971-4bd1156b4a56" />
 
 - Biểu đồ phân phối tải:
-<img width="602" height="292" alt="RequetsCount_Radom" src="https://github.com/user-attachments/assets/32e1d7e2-367f-4947-ac06-d8dc538f7eac" />
+<img width="6640" height="3022" alt="Random_2" src="https://github.com/user-attachments/assets/0c8a8fca-b6ce-483c-a99e-faecd4fb49eb" />
+
+Thuật toán Round Robin
+- Thống kê lưu lượng:
+<img width="6600" height="1072" alt="rr_1" src="https://github.com/user-attachments/assets/b2827d5d-0d94-4c93-a8c9-8c2c63fe60a3" />
+
+- Biểu đồ phân phối tải:
+<img width="6600" height="3020" alt="rr_2" src="https://github.com/user-attachments/assets/323977bf-82db-4191-ae50-5480bbe5172b" />
+
+Tính năng Heal Check
+- Biểu đồ phân phối tải:
+<img width="6600" height="2929" alt="heal check" src="https://github.com/user-attachments/assets/e47d1ce1-c69e-4d2e-9c4d-414e11714f78" />
 
 
 
